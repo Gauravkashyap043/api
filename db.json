@@ -28,9 +28,9 @@
         "population": "15000000"
       },
       {   "id" : 3,
-        "country" : "Canada",
-        "city" : "Toronto",
-        "population": "1000000"
+        "country" : "US",
+        "city" : "Newyork",
+        "population": "2000000"
       },
       {   "id" : 4,
         "country" : "US",
@@ -38,9 +38,9 @@
         "population": "2000000"
       },
       {  "id" : 5,
-        "country" : "UK",
-        "city" : "London",
-        "population": "3000000"
+        "country" : "JAPAN",
+        "city" : "Tokyo",
+        "population": "8000000"
       }
     ]
   }
